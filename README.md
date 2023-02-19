@@ -12,7 +12,7 @@ Music Recommender using ANNOY and Google's AudioSet
 2. Run `main.ipynb`
 
 ## Dependencies
-- Tensorflow 2.0
+- Tensorflow 2.0 (installed via pip in anaconda)
 - ANNOY (https://github.com/spotify/annoy)
 
 ## Demo Images
