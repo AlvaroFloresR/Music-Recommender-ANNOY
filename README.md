@@ -8,6 +8,7 @@ Music Recommender using ANNOY and Google's AudioSet
 
 ## How to run
 1. Download Google Dataset (See references section below) and place in the `./data/audioset_v1_embeddings` directory
+![image](https://user-images.githubusercontent.com/87340855/219968863-8604b42c-4c5d-4852-b3ad-2d28d20b8da7.png)
 2. Run `main.ipynb`
 
 ## Dependencies
